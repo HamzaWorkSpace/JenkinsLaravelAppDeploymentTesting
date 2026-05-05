@@ -153,9 +153,9 @@
 
                 <div class="heart">
                     <div class="heart-text">
-                        <h1>Hamza</h1>
+                        <h1>Amir Hamza Hubby</h1>
                         <p>❤️</p>
-                        <h1>Hiba</h1>
+                        <h1>Hiba sohail wifey</h1>
                     </div>
                 </div>
 
