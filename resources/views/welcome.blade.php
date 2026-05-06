@@ -159,7 +159,7 @@
                     </div>
                 </div>
 
-                <h3 class="mt-4">Forever Together till Jannah</h3>
+                <h3 class="mt-4">Forever Together till Jannat-ul-firdous</h3>
                 <p class="mt-2 mb-0">
                     Two names, one heart, one beautiful journey.
                 </p>
